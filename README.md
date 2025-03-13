@@ -61,7 +61,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/svcs.git
+git clone https://github.com/therealsaitama/svcs.git
 
 # Navigate to the project directory
 cd svcs
